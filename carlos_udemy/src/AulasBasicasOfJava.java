@@ -12,5 +12,15 @@ public class AulasBasicasOfJava {
 
         // Strings
         System.out.println("Olá,\ntudo\nbem"); //     Aqui o "\n" é uma quebra de linha.
+
+        // A partir do Java 15 vieram os "Text Blocks" para usá-los basta colocar 3 aspas duplas """
+        // Porém, devesse começar a escrever a partir da linha debaixo, veja um exemplo.
+
+        String texto = """
+                Aqui está um texto usando 'Text Blocks' vale lembrar que devemos
+                encerrar sempre com ponto e vírgula.
+                """;
+
+        System.out.println(texto);
     }
 }
