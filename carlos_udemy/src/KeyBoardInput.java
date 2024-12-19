@@ -12,7 +12,6 @@ public class KeyBoardInput {
     var lerDados = new java.util.Scanner(System.in);  // Cria uma instância (um OBJ) de Scanner para ler dados do teclado
 
     // String info1 = lerDados.nextLine();  // Usa o metodo nextLine() do objeto "lerDados" para capturar uma linha de entrada do usuário
-
     // O dado capturado é armazenado na variável "info1" do tipo "String"
 
     System.out.print("Texto 1: ");
