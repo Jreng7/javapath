@@ -19,24 +19,24 @@ public class ObjetoAccount1 {
 
     */
 
-    Account objetoInstacia1 = new Account();
-    objetoInstacia1.accountNumber = "1234-5";
-    objetoInstacia1.accountOwner = "Joaquim Silvera";
-    objetoInstacia1.balance = 25.750;
-
-    Account cliente2 = new Account();
-
-    cliente2.accountNumber = "2475-5";
-    cliente2.accountOwner = "Patricia Martins";
-    cliente2.balance = 150.0;
-
-    System.out.println("Conta: " + objetoInstacia1.accountNumber);
-    System.out.println("Nome: " + objetoInstacia1.accountOwner);
-    System.out.println("Saldo: " + objetoInstacia1.balance);
-    System.out.println("------------------------");
-    System.out.println("Conta: " + cliente2.accountNumber);
-    System.out.println("Nome: " + cliente2.accountOwner);
-    System.out.println("Saldo: " + cliente2.balance);
+//    Account objetoInstacia1 = new Account();
+//    objetoInstacia1.accountNumber = "1234-5";
+//    objetoInstacia1.accountOwner = "Joaquim Silvera";
+//    objetoInstacia1.balance = 25.750;
+//
+//    Account cliente2 = new Account();
+//
+//    cliente2.accountNumber = "2475-5";
+//    cliente2.accountOwner = "Patricia Martins";
+//    cliente2.balance = 150.0;
+//
+//    System.out.println("Conta: " + objetoInstacia1.accountNumber);
+//    System.out.println("Nome: " + objetoInstacia1.accountOwner);
+//    System.out.println("Saldo: " + objetoInstacia1.balance);
+//    System.out.println("------------------------");
+//    System.out.println("Conta: " + cliente2.accountNumber);
+//    System.out.println("Nome: " + cliente2.accountOwner);
+//    System.out.println("Saldo: " + cliente2.balance);
 
 
 
