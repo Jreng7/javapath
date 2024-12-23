@@ -27,6 +27,8 @@ public class ExercicioPdf08 {
     double total = precoPorUnidade * macas;
 
     // Exibe o resultado formatado.
+    System.out.println("Você está comprando " + macas + " maçãs.");
+    System.out.println("O total a pagar é R$ " + String.format("%.2f", total));
 
     feira.close();
   }
