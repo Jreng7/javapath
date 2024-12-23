@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/carlos_udemy/carlos_udemy.iml" filepath="$PROJECT_DIR$/carlos_udemy/carlos_udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dougllas_udemy/dougllas_udemy.iml" filepath="$PROJECT_DIR$/dougllas_udemy/dougllas_udemy.iml" />
       <module fileurl="file://$PROJECT_DIR$/javapath.iml" filepath="$PROJECT_DIR$/javapath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dougllas_udemy/primeiro_projeto/primeiro_projeto.iml" filepath="$PROJECT_DIR$/dougllas_udemy/primeiro_projeto/primeiro_projeto.iml" />
     </modules>
   </component>
 </project>
