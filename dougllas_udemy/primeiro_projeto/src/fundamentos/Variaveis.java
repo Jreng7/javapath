@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class Variaveis {  // Aqui é considerado "Escopo Global".
 
   static final float VALOR_PI = 3.14f;
@@ -18,8 +20,8 @@ public class Variaveis {  // Aqui é considerado "Escopo Global".
   instância (objeto) da classe. Como ele pertence à classe, você pode acessá-lo diretamente usando o
   nome da classe, sem precisar criar um objeto, logo, é possível acessar um atributo ou metodo que é
   static de outro arquivo sem instanciar. No exemplo, VALOR_PI é uma constante que pertence à classe
-  "Variaveis" e pode ser acessada diretamente, assim: System.out.println(NomeDaClasse.VALOR_PI); nome
-  da classe aqui é Variaveis, ficando assim: System.out.print(Variaveis.VALOR_PI);
+  "NomeDaClasse" e pode ser acessada diretamente, assim: System.out.println(NomeDaClasse.VALOR_PI);
+ ,ficando assim: System.out.print(NomeDaClasse.VALOR_PI);
 
 
   O que acontece durante a execução?
@@ -74,7 +76,7 @@ public class Variaveis {  // Aqui é considerado "Escopo Global".
 
     /*
       A constante não é declarada dentro do metodo (Aqui no "main"), antes ela deve ser declarada
-      no escopo da "Class". Veja lá começo do arquivo em "public class Variaveis"
+      no escopo da "Class". Veja lá começo do arquivo em "public class"
       a constante é declarada abaixo dela.
     */
 
