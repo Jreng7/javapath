@@ -16,8 +16,20 @@ public class InicializacaoArrays {
     // do elemento que deseja pegar, exemplo, abaixo pega o elemento 1 "Fulano"
     System.out.println(alunos[1]);
 
-    // Aqui, estou dizendo que o número máximo de elementos no array "paises" é 5.
-    String[] paises = new String[5];
+    // Caso deseje atribuir um elemento do array a uma variável, basta fazer conforme abaixo.
+    String aluno1 = alunos[2];
+    System.out.println(aluno1);
 
+    // Aqui, estou dizendo que o número máximo de elementos no array "paises" é 5.
+    String[] paises = new String[2];
+    paises[0] = "Brasil";
+    paises[1] = "EUA";
+
+    String[] telefones = new String[3];
+    telefones[0] = "35997541598";
+    telefones[1] = "11759558707";
+    telefones[2] = "83945741247";
+
+    System.out.println(telefones[2]);
   }
 }
