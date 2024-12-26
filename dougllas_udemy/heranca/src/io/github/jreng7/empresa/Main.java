@@ -17,5 +17,15 @@ public class Main {
     gerente.setSalario(7_500);
     gerente.imprimirRemuneracao();
 
+    System.out.println("Bônus Anual:");
+    System.out.println("Gerente: " + gerente.bonificacaoAnual());
+    System.out.println("Técnico: " + tecnico.bonificacaoAnual());
+
+    ConexaoBancaria conexaoBancaria = new ConexaoBancaria();
+    GerenciaRH gerenciaRH = new GerenciaRH(conexaoBancaria);
+
+    gerenciaRH.pagarBonificacaoAnual(tecnico);
+    gerenciaRH.pagarBonificacaoAnual(gerente);
+
   }
 }

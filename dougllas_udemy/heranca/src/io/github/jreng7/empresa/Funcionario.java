@@ -1,12 +1,21 @@
 package io.github.jreng7.empresa;
 
    // SuperClasse
-public class Funcionario {
+public abstract class Funcionario {
 
   // Atributos do funcionário.
   private String nome;
   private String cpf;
   private double salario;
+
+
+  // metodo abstrato não tem "chaves" { } Ele apenas diz para os filhos dele para implementar uma classe
+     // com o nome que foi setado aqui e cada um faz a sua lógica, de acordo com cada classe.
+
+     // Outro detalhe, uma classe abstrata só existe em uma classe que foi definida como abstrata
+     // no caso, a class funcionario tem abstract.
+  public abstract double bonificacaoAnual();
+
 
 
   public double bonificacao(){
