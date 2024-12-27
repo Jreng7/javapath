@@ -1,52 +1,23 @@
-# Learning Java
+# Repository of Various Projects
 
-Este repositório é dedicado à organização de cursos de Java, abrangendo desde conceitos básicos até tópicos avançados. 
+This repository contains a collection of individual projects, where each folder corresponds to a specific project. The projects may be developed in different programming languages and utilize various technologies, depending on the goal of each one.
 
-- **Estrutura**: A pasta principal permanece inalterada, funcionando como um diretório geral. 
-- **Subpastas**: Cada subpasta dentro do repositório representa um curso específico ministrado por diferentes profissionais. 
-- **Objetivo**: Proporcionar uma abordagem progressiva e estruturada para o aprendizado da linguagem Java.
+## **Important Note**
+This repository contains projects exclusively from **paid courses on Udemy**.  
+- The commits represent the lessons I attended, but **none of the files in this repository contain any video lessons**.  
+- The purpose of this repository is solely to save the notes and code I wrote during the courses, serving as a reference to review the concepts and theory I learned, if necessary.  
+- **There is no violation of any rights**, as the repository does not redistribute course materials or videos. It only contains my personal work and learning outcomes.
 
-Ideal para quem busca consolidar conhecimentos em Java de forma prática e organizada.
+## **Project Structure**
+Each folder within this repository represents a distinct project. Below is the list of folders and their respective descriptions:
 
-Learning_Java/
-├── Curso_Java_Basico_Professor_X/
-│   ├── README.md
-│   ├── Exercicios/
-│   │   ├── Exercicio1.java
-│   │   ├── Exercicio2.java
-│   │   └── ...
-│   ├── Exemplos/
-│   │   ├── Exemplo1.java
-│   │   ├── Exemplo2.java
-│   │   └── ...
-│   └── Projeto_Final/
-│       ├── Main.java
-│       └── ...
-├── Curso_Java_Intermediario_Professor_Y/
-│   ├── README.md
-│   ├── Modulos/
-│   │   ├── Modulo1/
-│   │   │   ├── Aula1.java
-│   │   │   ├── Aula2.java
-│   │   │   └── ...
-│   │   └── Modulo2/
-│   │       ├── Aula1.java
-│   │       ├── Aula2.java
-│   │       └── ...
-│   └── Projeto_Intermediario/
-│       ├── Main.java
-│       └── ...
-├── Curso_Java_Avancado_Professor_Z/
-│   ├── README.md
-│   ├── Exemplos/
-│   │   ├── POO/
-│   │   │   ├── Classe.java
-│   │   │   └── ...
-│   │   ├── Threads/
-│   │   │   ├── ThreadExemplo.java
-│   │   │   └── ...
-│   │   └── ...
-│   └── Projeto_Avancado/
-│       ├── Main.java
-│       └── ...
-└── README.md
+- `udemy_Dougllas`: Description of the first project. (Replace with specific details)
+
+## **Usage Instructions**
+To explore any project:
+
+1. Navigate to the folder corresponding to the project of interest.  
+2. Inside each folder, you will find a specific `README.md` file containing more details about the project, such as its functionalities, the technologies used, and execution instructions.
+
+## **Additional Information**
+This repository serves as a personal space for organizing and reviewing what I learned in Udemy courses. The goal is to preserve and document my progress while experimenting with different technologies and concepts.
