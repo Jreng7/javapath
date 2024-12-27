@@ -1,4 +1,4 @@
-# ☕ Repository of Java Projects 🚀
+# ☕ Repository of Java Projects 
 
 Welcome to my **Java Projects Repository**! This is where I document my journey through the world of **Java** and its related technologies. Just like Java's iconic coffee cup ☕, this repository symbolizes energy and focus for continuous learning.
 
@@ -7,7 +7,7 @@ Each folder within this repository represents a distinct project focused on **Ja
 
 - `project_01`: "project_01" is just an example. Description of the first project. *(Replace with specific details)*  
 
-New folders will be added as I progress on this journey! 
+New folders will be added as I progress on this journey! 🚀
 
 ## **🚨 Important Note**
 This repository contains projects exclusively from **paid courses on Udemy**.  
