@@ -2,6 +2,9 @@ package io.github.jreng7.interfaces;
 
 public interface Autenticacao {
 
+  String getIdentificacao();
+  String getSenha();
+  boolean isUsaSenha();
 
 
 

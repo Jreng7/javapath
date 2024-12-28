@@ -20,7 +20,7 @@ Learning_Java/
 │   │   ├── Exemplo2.java
 │   │   └── ...
 │   └── Projeto_Final/
-│       ├── Main.java
+│       ├── Fundamentos1.java
 │       └── ...
 ├── Curso_Java_Intermediario_Professor_Y/
 │   ├── README.md
@@ -34,7 +34,7 @@ Learning_Java/
 │   │       ├── Aula2.java
 │   │       └── ...
 │   └── Projeto_Intermediario/
-│       ├── Main.java
+│       ├── Fundamentos1.java
 │       └── ...
 ├── Curso_Java_Avancado_Professor_Z/
 │   ├── README.md
@@ -47,6 +47,6 @@ Learning_Java/
 │   │   │   └── ...
 │   │   └── ...
 │   └── Projeto_Avancado/
-│       ├── Main.java
+│       ├── Fundamentos1.java
 │       └── ...
 └── README.md
