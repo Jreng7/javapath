@@ -1,52 +1,15 @@
-# Learning Java
+# ☕ Learning Java
 
-Este repositório é dedicado à organização de cursos de Java, abrangendo desde conceitos básicos até tópicos avançados. 
+This repository is dedicated to organizing **Java courses**, covering everything from basic concepts to advanced topics. The goal is to centralize resources for an effective and structured learning experience.
 
-- **Estrutura**: A pasta principal permanece inalterada, funcionando como um diretório geral. 
-- **Subpastas**: Cada subpasta dentro do repositório representa um curso específico ministrado por diferentes profissionais. 
-- **Objetivo**: Proporcionar uma abordagem progressiva e estruturada para o aprendizado da linguagem Java.
+## **📂 Structure**
+Instead of creating a new repository for every lesson or course I found—which would be impractical—I decided to consolidate everything into this repository.
+- The **main folder** remains unchanged, serving as a general directory.
+- Additionally, I created another repository called `javaph` to store courses from platforms like **Udemy**, **Coursera**, and other certificate-oriented platforms.
+- This repository, however, focuses more on free resources like **YouTube** and other open platforms.
 
-Ideal para quem busca consolidar conhecimentos em Java de forma prática e organizada.
+## **📁 Subfolders**
+Each subfolder within this repository represents a specific course taught by different professionals, allowing for better organization and access to diverse perspectives.
 
-Learning_Java/
-├── Curso_Java_Basico_Professor_X/
-│   ├── README.md
-│   ├── Exercicios/
-│   │   ├── Exercicio1.java
-│   │   ├── Exercicio2.java
-│   │   └── ...
-│   ├── Exemplos/
-│   │   ├── Exemplo1.java
-│   │   ├── Exemplo2.java
-│   │   └── ...
-│   └── Projeto_Final/
-│       ├── Fundamentos1.java
-│       └── ...
-├── Curso_Java_Intermediario_Professor_Y/
-│   ├── README.md
-│   ├── Modulos/
-│   │   ├── Modulo1/
-│   │   │   ├── Aula1.java
-│   │   │   ├── Aula2.java
-│   │   │   └── ...
-│   │   └── Modulo2/
-│   │       ├── Aula1.java
-│   │       ├── Aula2.java
-│   │       └── ...
-│   └── Projeto_Intermediario/
-│       ├── Fundamentos1.java
-│       └── ...
-├── Curso_Java_Avancado_Professor_Z/
-│   ├── README.md
-│   ├── Exemplos/
-│   │   ├── POO/
-│   │   │   ├── Classe.java
-│   │   │   └── ...
-│   │   ├── Threads/
-│   │   │   ├── ThreadExemplo.java
-│   │   │   └── ...
-│   │   └── ...
-│   └── Projeto_Avancado/
-│       ├── Fundamentos1.java
-│       └── ...
-└── README.md
+## **🎯 Objective**
+To provide a **progressive** and **structured** approach to learning the **Java language**, helping learners move seamlessly from basic concepts to advanced topics.
