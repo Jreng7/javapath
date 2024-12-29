@@ -7,7 +7,17 @@ public class Exercicio_01 {
 
     Scanner number = new Scanner(System.in);
 
+    int x;
 
+    System.out.print("Digite um número inteiro: ");
+    x = number.nextInt();
 
+    if(x >- 0){
+      System.out.print("NAO NEGATIVO");
+    } else {
+      System.out.print("NEGATIVO");
+    }
+
+    number.close();
   }
 }
