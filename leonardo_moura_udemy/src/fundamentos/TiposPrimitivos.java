@@ -39,5 +39,8 @@ public class TiposPrimitivos {
     // Tipo caractere
     char sexo = 'M';  // O Tipo caractere não aceita aspas duplas "" somente aspas simples.
 
+    char status = '\u0010'; // Como que aceitou? Esse código representa um valor na tabela unicode.
+    // Logo, ele usa isso para representar um valor.
+
   }
 }
