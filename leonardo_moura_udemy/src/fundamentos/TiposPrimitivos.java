@@ -3,6 +3,8 @@ package fundamentos;
 public class TiposPrimitivos {
   public static void main(String[] args){
 
+    // TIPOS PRIMITIVOS NÃO TEM O OPERADOR PONTO "." OU SEJA, NÃO ACESSA METODOS (FUNÇÕES) COMO STRING.
+
     //  "Valor Literal"
     // É o valor que vai ser atribuido a variável, por exemplo, int number = 10; (10 é o valor literal)
 
