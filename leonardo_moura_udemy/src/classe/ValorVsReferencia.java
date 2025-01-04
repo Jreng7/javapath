@@ -3,7 +3,7 @@ package classe;
 public class ValorVsReferencia {
   public static void main(String[] args){
 
-      // ATRIBUIÇÃO POR VALOR.
+      // ATRIBUIÇÃO POR VALOR. (TIPO PRIMITIVO).
       double a = 2;
       double b = a;  //  Atribuição por valor, ou seja, ocorreu uma cópia na memória de a = 2 para b = 2.
       a++;  // Resultado => 3
