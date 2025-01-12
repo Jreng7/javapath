@@ -1,10 +1,10 @@
-package br.com.bigsilver.first_project_spring;
+package br.com.josue.primeiro_projeto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FirstProjectSpringApplicationTests {
+class PrimeiroProjetoApplicationTests {
 
 	@Test
 	void contextLoads() {

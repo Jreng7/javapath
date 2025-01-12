@@ -1,13 +1,13 @@
-package br.com.bigsilver.first_project_spring;
+package br.com.josue.primeiro_projeto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FirstProjectSpringApplication {
+public class PrimeiroProjetoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FirstProjectSpringApplication.class, args);
+		SpringApplication.run(PrimeiroProjetoApplication.class, args);
 	}
 
 }

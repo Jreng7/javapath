@@ -8,10 +8,10 @@
 		<version>3.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.bigsilver</groupId>
-	<artifactId>first-project-spring</artifactId>
+	<groupId>br.com.josue</groupId>
+	<artifactId>primeiro_projeto</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>first-project-spring</name>
+	<name>primeiro_projeto</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
